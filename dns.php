@@ -17,6 +17,7 @@ class dns {
         'NS',
         'TXT',
         'SRV',
+        'CAA',
         'PTR',
         'SOA',
         'HINFO',
